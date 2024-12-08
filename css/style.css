@@ -226,7 +226,7 @@ body.third{
     background-color: rgb(0, 48, 48);
 }
 body.bg{
-background-image: url('/images/nbg.jpg');
+background-image: url('../images/nbg.jpg');
 background-repeat: no-repeat;
 background-size: cover;
 
